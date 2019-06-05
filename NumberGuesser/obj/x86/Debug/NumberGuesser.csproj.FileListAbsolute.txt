@@ -1,0 +1,6 @@
+/Users/michaeldickman/Projects/Competencies-Demo/NumberGuesser/bin/Debug/NumberGuesser.exe
+/Users/michaeldickman/Projects/Competencies-Demo/NumberGuesser/bin/Debug/NumberGuesser.pdb
+/Users/michaeldickman/Projects/Competencies-Demo/NumberGuesser/obj/x86/Debug/NumberGuesser.csprojAssemblyReference.cache
+/Users/michaeldickman/Projects/Competencies-Demo/NumberGuesser/obj/x86/Debug/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/michaeldickman/Projects/Competencies-Demo/NumberGuesser/obj/x86/Debug/NumberGuesser.exe
+/Users/michaeldickman/Projects/Competencies-Demo/NumberGuesser/obj/x86/Debug/NumberGuesser.pdb
