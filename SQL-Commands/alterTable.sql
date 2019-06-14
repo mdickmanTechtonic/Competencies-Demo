@@ -1,0 +1,7 @@
+ALTER TABLE `Denver_sand_volleyball_courts`.`Courts` 
+ADD COLUMN `id` INT NOT NULL AUTO_INCREMENT FIRST,
+CHANGE COLUMN `Place` `Place` VARCHAR(20) NULL ,
+DROP PRIMARY KEY,
+ADD PRIMARY KEY (`id`),
+ADD UNIQUE INDEX `id_UNIQUE` (`id` ASC);
+;
