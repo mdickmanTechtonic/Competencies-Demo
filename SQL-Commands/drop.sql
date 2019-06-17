@@ -1,0 +1,1 @@
+DROP TABLE Denver_sand_volleyball_courts.Courts
